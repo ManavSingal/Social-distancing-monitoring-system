@@ -20,7 +20,7 @@ Project is created with:
 * OpenCV
 * numpy
 * YOLO
-* 
+
 <video controls preload='metadata' onclick='(function(el){ if(el.paused) el.play(); else el.pause() })(this)'>
   <source src='./media/result.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
 </video>
