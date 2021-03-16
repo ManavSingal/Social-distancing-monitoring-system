@@ -9,7 +9,7 @@ A solution based on Deep Learning to detect people in the office room and find t
 
 #### People detection in frame
 <p align="center">
-    <img src="./media/result.jpg", width="720">
+    <img src="./media/result.JPG", width="720">
     <br>
     <sup>People in the frame with distancing alert system.</sup>
 </p>
