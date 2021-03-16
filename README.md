@@ -21,6 +21,6 @@ Project is created with:
 * numpy
 * YOLO
 
-<video controls preload='metadata' onclick='(function(el){ if(el.paused) el.play(); else el.pause() })(this)'>
-  <source src='./media/result.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-</video>
+
+https://user-images.githubusercontent.com/29357088/111307099-02bf6b80-867f-11eb-9c15-7c2def121b3f.mp4
+
