@@ -13,3 +13,10 @@ A solution based on Deep Learning to detect people in the office room and find t
     <br>
     <sup>People in the frame with distancing alert system.</sup>
 </p>
+
+## Technologies
+Project is created with:
+* Flask
+* OpenCV
+* numpy
+* YOLO
