@@ -1,11 +1,13 @@
 ## Project Summary
 A solution based on Deep Learning to detect people in the office room and find the distance between them to get track of social distancing.
 
+## Dataset
+- Dataset used is 1200+ images of persons sitting and moving in the office.
+
 ## Algorithmic Concepts
 
 - Preprocessing the dataset
 - Train model on YoloV3 for person detection
-
 
 #### People detection in frame
 <p align="center">
