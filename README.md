@@ -20,10 +20,3 @@ Project is created with:
 * OpenCV
 * numpy
 * YOLO
-
-
-https://user-images.githubusercontent.com/29357088/111307099-02bf6b80-867f-11eb-9c15-7c2def121b3f.mp4
-<video class='featured wide' controls poster='/images/clouds.jpg' width='1080px' height='608px' preload='auto'
-  onclick='(function(el){ if(el.paused) el.play(); else el.pause() })(this)'>
-  <source src='https://user-images.githubusercontent.com/29357088/111307099-02bf6b80-867f-11eb-9c15-7c2def121b3f.mp4' type='video/mp4;'>
-</video>
